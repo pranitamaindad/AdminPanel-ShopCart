@@ -1,0 +1,8 @@
+.trdiv th{
+  
+  background-color: blue;
+
+}
+.categarydiv table,tr,th {
+  border: 2px solid black;
+}

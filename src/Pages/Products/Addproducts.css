@@ -1,0 +1,16 @@
+.textfields{
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+.brand{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+.mainfield{
+
+display: grid;
+grid-template-columns: 3fr 1fr;
+
+}
